@@ -12,20 +12,19 @@ const Experience = () => {
       <div className="flex flex-wrap gap-0 md:flex-nowrap md:gap-10"></div>
       <div className="flex-1">
         <div className="relative space-y-1 border-l-2 p-8 text-left">
-          <h3 className="text-xl font-semibold md:text-2xl">Experience 1</h3>
-          <p className="font-light text-lg text-gray-600">Job Title</p>
+          <h3 className="text-xl font-semibold md:text-2xl">Albert Heijn</h3>
+          <p className="font-light text-lg text-gray-600">2023-Present</p>
           <p className="text-sm text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
-            reiciendis, id ea doloremque eum incidunt voluptate quia nihil
-            voluptas error possimus nam reprehenderit magnam nostrum officia
-            obcaecati suscipit! Expedita, asperiores. </p>
+          Started as a shelf stacker and then grew to the function as a cashier shift leader. </p>
           <span className="absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-teal-500"></span>
         </div>
 
         <div className="relative space-y-1 border-l-2 p-8 text-left">
-          <h3 className="text-xl font-semibold md:text-2xl">Experience 1</h3>
-          <p className="font-light text-lg text-gray-600">Job Title</p>
+          <h3 className="text-xl font-semibold md:text-2xl">New York Pizza</h3>
+          <p className="font-light text-lg text-gray-600">2024-2025</p>
           <p className="text-sm text-gray-600">
+
+            Delivery and taking orders.
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
             reiciendis, id ea doloremque eum incidunt voluptate quia nihil
             voluptas error possimus nam reprehenderit magnam nostrum officia
@@ -33,17 +32,7 @@ const Experience = () => {
           <span className="absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-teal-500"></span>
         </div>
 
-        <div className="relative space-y-1 border-l-2 p-8 text-left">
-          <h3 className="text-xl font-semibold md:text-2xl">Experience 1</h3>
-          <p className="font-light text-lg text-gray-600">Job Title</p>
-          <p className="text-sm text-gray-600">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
-            reiciendis, id ea doloremque eum incidunt voluptate quia nihil
-            voluptas error possimus nam reprehenderit magnam nostrum officia
-            obcaecati suscipit! Expedita, asperiores. </p>
-          <span className="absolute -left-[11px] top-10 h-5 w-5 rounded-full bg-teal-500"></span>
-        </div>
-
+    
         
       </div>
       <div className="flex-1">
