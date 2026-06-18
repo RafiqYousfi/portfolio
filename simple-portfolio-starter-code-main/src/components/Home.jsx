@@ -23,34 +23,35 @@ const Home = () => {
             Web Developer
           </h3>
           <p className="max-w-[500px] text-sm text-gray-500">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
-            totam architecto harum laudantium eligendi magni alias aut odio
-            expedita! Quaerat amet nostrum fugiat corporis impedit ullam
-            doloremque, iste assumenda minima.
+            I am a web developer with two years of experience in front-end
+            development and website design. I am good at both creative and
+            technical work, which helps me build websites that look great and
+            work well. I enjoy working in a team and always pay close attention
+            to detail to make sure the end result is of high quality. I am eager
+            to keep learning and growing as a developer and always give my best
+            in every project I work on.
           </p>
         </div>
 
         <div className="flex gap-3">
-        <BiLogoGithub
-          className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2
+          <BiLogoGithub
+            className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2
         text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 
         md:h-12 md:w-12"
-        />
+          />
 
-        <BiLogoLinkedin
-          className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2
+          <BiLogoLinkedin
+            className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2
         text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 
         md:h-12 md:w-12"
-        />
+          />
 
-        <BiLogoInstagram
-          className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2
+          <BiLogoInstagram
+            className="h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2
         text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 
         md:h-12 md:w-12"
-        />
+          />
         </div>
-
-        
       </div>
     </div>
   );
